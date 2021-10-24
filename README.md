@@ -1,3 +1,6 @@
 My fist app for Git
-
-Alteração para commit 2
+Projeto 
+Node.jS
+Express
+Handlebars
+Mongoose + MongoDB
